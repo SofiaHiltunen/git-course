@@ -1,1 +1,1 @@
-# git-course
+print("Hello World!")
